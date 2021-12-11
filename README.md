@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaeedAdam
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning LAMP Stack.
+- 🌱 I’m currently learning Laravel/VueJs.
 - 💞️ I’m looking to collaborate on beginner web projects. 
 - 📫 How to reach me (linkedin.com/in/saeedadam)
 
