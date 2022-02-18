@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaeedAdam
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Laravel/VueJs.
-- 💞️ I’m looking to collaborate on beginner web projects. 
+- 👀 I’m interested in Web/Mobile Development.
+- 🌱 I’m currently learning C# and .NET 
+- 💞️ I’m looking to collaborate on .NET projects. 
 - 📫 How to reach me (linkedin.com/in/saeedadam)
 
 <!---
