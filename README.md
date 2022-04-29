@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Web/Mobile .NET projects**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](github.com/saeedadam)
 
 - 💬 Ask me about **C# and .NET**
 
-- 📫 How to reach me **linkedin.com/in/saeedadam**
+- 📫 How to reach me **[linkedin.com/in/saeedadam](linkedin.com/in/saeedadam)**
 
 - 📄 Know about my experiences [linkedin.com/in/saeedadam](linkedin.com/in/saeedadam)
 
