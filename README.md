@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A passionate Back-End developer from Eritrea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedadam&label=Profile%20views&color=0e75b6&style=flat" alt="saeedadam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedadam" alt="saeedadam" /></a> </p>
-
 - 🔭 I’m currently working on **Bug Tracker project**
 
 - 🌱 I’m currently learning **.NET**
 
 - 👯 I’m looking to collaborate on **Web/Mobile .NET projects**
-
-- 👨‍💻 All of my projects are available at [Github](github.com/saeedadam)
 
 - 💬 Ask me about **C# and .NET**
 
@@ -34,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedadam&show_icons=true&locale=en" alt="saeedadam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedadam&" alt="saeedadam" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedadam" alt="saeedadam" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedadam&label=Profile%20views&color=0e75b6&style=flat" alt="saeedadam" /> </p>
