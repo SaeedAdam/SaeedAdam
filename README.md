@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C# and .NET**
 
-- 📫 How to reach me **[linkedin.com/in/saeedadam](linkedin.com/in/saeedadam)**
+- 📫 How to reach me **[linkedin.com/in/saeedadam](https://linkedin.com/in/saeedadam)**
 
 
 <h3 align="left">Connect with me:</h3>
