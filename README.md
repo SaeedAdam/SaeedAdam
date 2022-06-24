@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C# and .NET**
 
-- 📫 How to reach me **[linkedin.com/in/saeedadam](https://linkedin.com/in/saeedadam)**
+- 📫 How to reach me? <a href="https://linkedin.com/in/saeedadam" target="blank">Visit My LinkedIn Account</a> or my <a href="https://saeedadam.com" target="blank">Portofolio Website</a>
 
 
 <h3 align="left">Connect with me:</h3>
