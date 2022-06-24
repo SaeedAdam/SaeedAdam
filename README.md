@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C# and .NET**
 
-- 📫 How to reach me?  Visit my <a href="https://linkedin.com/in/saeedadam" target="blank">LinkedIn Account</a> or my <a href="https://saeedadam.com" target="blank">Portofolio Website</a>
+- 📫 How to reach me?  Visit my <a href="https://linkedin.com/in/saeedadam" target="_blank">LinkedIn Account</a> or my <a href="https://saeedadam.com" target="_blank">Portofolio Website</a>
 
 
 <h3 align="left">Connect with me:</h3>
