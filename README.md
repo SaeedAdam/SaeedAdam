@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1> 
-<h3 align="center">A passionate Software developer from Eritrea</h3>
+<h3 align="center">A passionate Software developer from Eritrea <a><img src="/img/eritrean-flag-48x48.jpg" alt="Eritrean Flag"/></a></h3>
 
 <br>
 
