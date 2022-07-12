@@ -15,6 +15,8 @@
 - 📫 How to reach me?  Visit my <a href="https://linkedin.com/in/saeedadam" target="_blank">LinkedIn Account</a> or my <a href="https://saeedadam.com" target="_blank">Portofolio Website</a>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedadam&show_icons=true&locale=en" alt="saeedadam" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saeedadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saeedadam" height="30" width="40" /></a>
@@ -28,6 +30,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedadam&show_icons=true&locale=en&layout=compact" alt="saeedadam" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedadam&show_icons=true&locale=en" alt="saeedadam" /></p>
+
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedadam&label=Profile%20views&color=0e75b6&style=flat" alt="saeedadam" /> </p>
