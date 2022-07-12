@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Various .NET projects**
+- 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Full Stack Development with ASP.NET Core**
 
 - 👯 I’m looking to collaborate on **Web/Mobile .NET projects**
 
