@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **Full Stack Development with ASP.NET Core**
+<!-- - 🌱 I’m currently learning **Full Stack Development with ASP.NET Core** -->
 
 - 👯 I’m looking to collaborate on **Web/Mobile .NET projects**
 
