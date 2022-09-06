@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1> 
 
-<h3 align="center">A passionate Software developer from Eritrea <img src="eritrean-flag-48x48.jpg" width="32px" alt="Eritrean Flag" style="margin-top: 254px;"/></h3>
-
 <br>
 
 - 🔭 I’m currently working on **.NET projects**
