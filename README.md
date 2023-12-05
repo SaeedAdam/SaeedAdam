@@ -22,6 +22,8 @@
 <a href="https://linkedin.com/in/saeedadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeedadam" height="30" width="40" /></a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saeedadam&bg_color=00094d&color=e3e3e3&line=5880f9&point=c7c4ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedadam&" alt="BishoSBA" /></p>
 
